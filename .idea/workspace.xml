@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7da1e41f-5e51-4ff7-a3b0-6ddcdabe9ffa" name="Changes" comment="test update 2">
-      <change afterPath="$PROJECT_DIR$/data/faces_data.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/names.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Attendence/Attendence_06-02-2024.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Attendence/Attendence_06-02-2024.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/faces_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/faces_data.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/names.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/data/names.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +51,12 @@
     "Python.face_data.executor": "Run",
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.test_file.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/mdran/PycharmProjects/Face Recognition Using Opencv & Python",
+    "last_opened_file_path": "C:/Users/mdran/PycharmProjects/Smart Attendance Project",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
